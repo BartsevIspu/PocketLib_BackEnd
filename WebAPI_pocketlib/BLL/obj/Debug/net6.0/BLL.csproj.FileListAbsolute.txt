@@ -1,0 +1,90 @@
+E:\Diploma\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\Diploma\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.dll
+E:\Diploma\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.pdb
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.dll
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.pdb
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\Diploma\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\DAL.dll
+E:\Diploma\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\DAL.pdb
+E:\Diploma\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.dll
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\DAL.dll
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.dll
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Загрузки\PizzaApp-master (1)\PizzaApp-master\PizzaBackendServer\WebApi\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Александр\source\repos\WebAPI\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Александр\source\repos\WebAPI\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\Александр\source\repos\WebAPI\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\bin\Debug\net6.0\BLL.dll
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\bin\Debug\net6.0\BLL.pdb
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\bin\Debug\net6.0\DAL.dll
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\bin\Debug\net6.0\DAL.pdb
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.dll
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\BLL.pdb
+D:\копия repos\БОЛЕЕ ПОЗДНИЙ REPOS\WebAPI\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\Александр\source\repos\WebAPI — копия\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Александр\source\repos\WebAPI_pocketlib\BLL\obj\Debug\net6.0\ref\BLL.dll
