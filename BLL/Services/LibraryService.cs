@@ -33,7 +33,7 @@ namespace BLL.Services
                                             .ToList();
         }
 
-        /*public void DeleteLibrary(int libraryId)
+        public void DeleteLibrary(int libraryId)
         {
             var library = dataBase.LibraryRepository.Get(libraryId);
             if (library != null)
@@ -42,7 +42,7 @@ namespace BLL.Services
                 Save();
             }
         }
-
+        /*
         public void UpdateLibrary(LibraryModel library)
         {
             var libraryToChange = dataBase.LibraryRepository.Get(library.Id);
@@ -55,22 +55,20 @@ namespace BLL.Services
             }
         }*/
 
-        //public void CreateLibrary(CreateLibraryModel createLibraryModel)
-        //{
-            /*var user = dataBase.UserRepository.Get(createLibraryModel.UserId);
+       /* public void CreateLibrary(CreateLibraryModel createLibraryModel)
+        {
+            var user = dataBase.UserRepository.Get(createLibraryModel.UserId);
             var library = dataBase.LibraryRepository.GetAll().Where(i => i.UserId == createLibraryModel.UserId).Where(i => i.BookId == createLibraryModel.BookId).FirstOrDefault();
-            if (user != null && pizza != null)
+            if (user != null && library != null)
             {
                 if (library != null)
                 {
-                    library.Amount++;
-                    library.Price += pizza.Price;
                     dataBase.LibraryRepository.Update(library);
                 }
-                else { dataBase.LibraryRepository.Create(new Library { BookId = pizza.Id, UserId = user.Id, Book = pizza, User = user}); }
+                else { dataBase.LibraryRepository.Create(new Library { BookId = library.Id, UserId = user.Id, Book = library, User = user}); }
                 Save();
-            }*/
-        //}
+            }
+        }*/
 
         public bool Save()
         {

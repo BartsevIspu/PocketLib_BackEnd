@@ -10,8 +10,8 @@ namespace BLL.Interfaces
     public interface ILibraryService
     {
         List<LibraryModel> GetAllLibrariesByUserId(int userId);
-        /*void DeleteLibrary(int libraryId);
-        void UpdateLibrary(LibraryModel library);
-        void CreateLibrary(CreateLibraryModel createLibraryModel);*/
+        void DeleteLibrary(int libraryId);
+        //void UpdateLibrary(LibraryModel library);
+        //void CreateLibrary(CreateLibraryModel createLibraryModel);
     }
 }
