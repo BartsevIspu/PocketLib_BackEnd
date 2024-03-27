@@ -6,9 +6,9 @@ using System.Globalization;
 using System.Threading.Tasks.Dataflow;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
-//using BLL.Interfaces;
+using BLL.Interfaces;
 using BLL.Models;
-//using BLL.Services;
+using BLL.Services;
 using DAL.Data;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -22,11 +22,11 @@ builder.Services.AddControllers().AddNewtonsoftJson(x =>
 
 //var serviceProvider = builder.Services.BuildServiceProvider();
 
-/*builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IBookService, BookService>();
 builder.Services.AddScoped<ILibraryService, LibraryService>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IAccountService, AccountService>();*/
+//builder.Services.AddScoped<IUserService, UserService>();
+//builder.Services.AddScoped<IAccountService, AccountService>();
 
 // Add services to the container.
 
